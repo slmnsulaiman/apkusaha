@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413915329409",
+    "project_id": "pastijeriko",
+    "storage_bucket": "pastijeriko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413915329409:android:d6904773d6a2c7ed8d6e80",
+        "android_client_info": {
+          "package_name": "com.learningx.advan.jeriko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8jRzk4UeGFCma_A7KY4K8v9UhyB3miRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
